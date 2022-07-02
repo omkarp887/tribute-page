@@ -1,0 +1,52 @@
+header {
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+body {
+    background-color: whitesmoke;
+}
+article {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify;
+}
+footer {
+    width: 65%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+div {
+    text-align: center;
+}
+
+.linkicon{
+    height: 25px;
+    width: 25px;
+    margin: 10px;
+}
+.thirdImg{
+    height: auto;
+    width: 400px;
+}
+.secondImg{
+    height: auto;
+    width: 400px;
+}
+.profileImg{
+    height: auto;
+    width: 600px;
+}
+.custCenter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.custGrid{
+    display: grid;
+    text-decoration: none;
+    margin-inline: 5px;
+}
